@@ -1,4 +1,4 @@
-name: Pull Request CI
+name: Push CI
 
 on:
   push:
